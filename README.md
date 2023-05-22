@@ -1,7 +1,7 @@
-# psychic-giggle
+
 # Psychic Giggle
 
-![Psychic Giggle](demo.gif)
+![Psychic Giggle](https://media.tenor.com/I_SQK7woTXAAAAAC/giggle-chuckle.gif)
 
 Psychic Giggle is a repository showcasing a collection of animated CSS and HTML pages that are designed to bring joy and laughter to your web projects. This repository serves as a source of inspiration for developers and designers who want to add delightful and entertaining animations to their websites.
 
